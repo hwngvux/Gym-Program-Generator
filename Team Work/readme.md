@@ -22,17 +22,17 @@
 # Project
 
 * Requirement :
-	1. Home : 
+	1. Home : (Hưng)
 		1. Input bodyweight, sex, 1RM formula, Unit (lb/kg)
 		2. Input lifted weight, reps
 		3. Show their strength level
-	2. Programs :  
+	2. Programs :  (Nam)
 		1. Generate program from lifted weight
 		2. Export program to pdf
-	3. Calculator :
+	3. Calculator : (Linh)
 		1. Calculate 1RM
 		2. Calculate Wilks Coefficient
-	4. About :
+	4. About : (Linh)
 	
     	1. Contact (email form)
     	2. Information
