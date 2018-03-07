@@ -9,4 +9,4 @@
     5. Vũ Phúc Hưng
 
 * Kiến thức mà mọi thành viên phải biết :
-	1. Kĩ năng viết document, readme ( ![How to write readme](https://www.udacity.com/course/writing-readmes--ud777) )
+	1. Kĩ năng viết document, readme ( [How to write readme](https://www.udacity.com/course/writing-readmes--ud777) )
