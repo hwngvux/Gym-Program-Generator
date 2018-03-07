@@ -1,4 +1,4 @@
-# Phân công việc
+# Team
 
 * Thành viên nhóm :
  	
@@ -18,3 +18,22 @@
 	1. Front-end : Dương Quang Khải
 	2. Back-end : Đào Tuấn Linh, Nguyễn Phạm Việt Nam, Vũ Phúc Hưng
 	3. Powerpoint and User documentations : Bùi Đức Anh 
+
+# Project
+
+* Requirement :
+	1. Home : 
+		1. Input bodyweight, sex, 1RM formula, Unit (lb/kg)
+		2. Input lifted weight, reps
+		3. Show their strength level
+	2. Programs :  
+		1. Generate program from lifted weight
+		2. Export program to pdf
+	3. Calculator :
+		1. Calculate 1RM
+		2. Calculate Wilks Coefficient
+	4. About :
+	
+    	1. Contact (email form)
+    	2. Information
+
